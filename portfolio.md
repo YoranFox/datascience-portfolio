@@ -59,10 +59,9 @@ At the first stages during the project regression was still a option we were con
 
 
 <details>
-  <summary><h2>The experiment</h2></summary>
+  <summary>The experiment</summary>
 <br>
-
-
+---  
 For our project we wanted to know what model and feature combination would work best to predict the user score. To find this out we chose to go for a brute force method, by trying out all posible combinations and generating a model for that. After which we calculated scores that we could use to compare and get the best possible combination. The script that generated this data is programmed by me. 
 
 #### Method
