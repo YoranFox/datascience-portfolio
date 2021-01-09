@@ -78,8 +78,12 @@ Balancing methods:
 - Cluster based Oversampling SMOTE
 
 Classes: 2 - 5
+
 Scaler: Power Transformer (Box-Cox)
-Generating scores: K-fold crossvalidation
+
 Scores generated: Accuracy, recall, precision and Mean absolute error
+
+The data that is generated is done by training and validating the model with k-fold cross validation. The amount of models  that are created and validated can be calculated by using the following funciton: 
+![alt text](http://url/to/img.png)
 
 #### Results
