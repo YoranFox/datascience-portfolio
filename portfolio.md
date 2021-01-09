@@ -85,6 +85,10 @@ Scores generated: Accuracy, recall, precision and Mean absolute error
 
 The data that is generated is done by training and validating the model with k-fold cross validation. The amount of models  that are created and validated can be calculated by using the following funciton: 
 
-<img src="https://github.com/YoranFox/datascience-portfolio/blob/main/Function_Itt_Experiment.png" alt="alt text" width="200" height="20">
+<img src="https://github.com/YoranFox/datascience-portfolio/blob/main/Function_Itt_Experiment.png" alt="alt text" width="200" height="30">
+
+*f = features amount, p = parameters amount, m = model amount, b = balancing method amount, i = iterations*
+
+The output of the function with the parameters used in the experiment shows us that the script will run 5120 times. 
 
 #### Results
