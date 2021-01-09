@@ -6,7 +6,15 @@ TODO (Personal information)
 
 ## Introduction
 
-TODO
+Introduction to the project - define project definition
+
+<details>
+  <subject>VSPARTICLE</subject>
+  <br/>
+  Give information about vs particle
+</details>
+
+
 
 
 ## Content
@@ -34,7 +42,9 @@ List of completed courses with a link to screenshots of completed courses
 
 The words used in this paper that are domain specific are defined below.
 
-* Threshold algorithm: A algorithm that is used during image processing to define what pixels are white and black
+* Threshold algorithm: A algorithm that is used during image processing to define what pixels are white and black.
+* User score: The score a user gives at the end of the image processing to determine how good the image looks.
+
 
 
 ## Research
@@ -44,6 +54,12 @@ The words used in this paper that are domain specific are defined below.
 [Link to research plan](https://github.com/YoranFox/datascience-portfolio/blob/main/NANO%20%E2%80%93%20Research%20plan%20(1).pdf)
 
 My contribution to the research plan is done in multiple ways. At the start of writing the plan I layed out the general aproach for researching the project and also splitting the research question in different sub-questions. The plan for the sub-question *How does the given data need to be restructured in order to be useful for the model?* was written by me.
+
+### Method
+
+When looking at the different ways to predict the best threshold method we spotted a problem in the data. For most of the pictures that are used there is only one predicted userscore. This is a problem since we dont know the score the same picture would have been given on the other threshold algorithms. At this point I came up with a different approach, we make a model that predicts the userscore instead of the best userscore. This can be done since the scores of a image are being calculated for every thershold algorithm. The picture below shows how the best threshold algorithm will be chosen.
+
+
 
 ## Predictive Analystics
 
@@ -99,9 +115,13 @@ The output of the function with the parameters used in the experiment shows us t
 
 #### Results
 
-The results we got from the script are saved in a DataFrame and exported to a folder. As a group we started to visualize the results to get insights into the data that was generated. I focussed on the balancing methods, for this I created a visualisation to see the relation between different balancing methods with Accuracy vs Classes amount for every model. 
+The results we got from the script are saved in a DataFrame and exported to a folder. As a group we started to visualize the results to get insights into the data that was generated. I focussed on the balancing methods, for this I created a visualisation to see the relation between different balancing methods with Accuracy vs Classes amount for every model type. The accuracy values are the means of the models with every feature combination.
 
 <img src="https://github.com/YoranFox/datascience-portfolio/blob/main/Experiment_Balancing acc vs classes.png" alt="alt text" width="800" height="400">
 
+With help of this visualisation we were able to confirm that the Balancing method we were going to use in the final model is indeed the best one for that model. Because when you look at the Logistic Regression model you can see that Under sampling has the highest score.
+
 </details>
+
+
 
