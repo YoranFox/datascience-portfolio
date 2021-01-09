@@ -84,6 +84,7 @@ Scaler: Power Transformer (Box-Cox)
 Scores generated: Accuracy, recall, precision and Mean absolute error
 
 The data that is generated is done by training and validating the model with k-fold cross validation. The amount of models  that are created and validated can be calculated by using the following funciton: 
-![alt text](https://github.com/YoranFox/datascience-portfolio/blob/main/Function_Itt_Experiment.png =10x5)
+
+<img src="https://github.com/YoranFox/datascience-portfolio/blob/main/Function_Itt_Experiment.png" alt="alt text" width="20" height="20">
 
 #### Results
