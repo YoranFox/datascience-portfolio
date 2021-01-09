@@ -99,7 +99,7 @@ The output of the function with the parameters used in the experiment shows us t
 
 #### Results
 
-The results we got from the script are saved in a DataFrame and exported to a folder. As a group we started to visualize the results to get insights into the data that was generated. I focussed on the balancing methods, for this I created a visualisation to see the relation between different balancing methods with Accuracy vs Classes amount. 
+The results we got from the script are saved in a DataFrame and exported to a folder. As a group we started to visualize the results to get insights into the data that was generated. I focussed on the balancing methods, for this I created a visualisation to see the relation between different balancing methods with Accuracy vs Classes amount for every model. 
 
 <img src="https://github.com/YoranFox/datascience-portfolio/blob/main/Experiment_Balancing acc vs classes.png" alt="alt text" width="800" height="400">
 
