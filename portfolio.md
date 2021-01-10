@@ -152,3 +152,22 @@ During the project I have done 3 presenations. Two internal presentations and 1 
 
 - [Week 13 Powerpoint](https://dehaagsehogeschool.sharepoint.com/:p:/r/sites/AppliedDataScience_groups-Nano/_layouts/15/Doc.aspx?sourcedoc=%7BC86D1590-FEAC-4AC5-9508-A99400933EC6%7D&file=Public%20presentations%20wk%2013.pptx&action=edit&mobileredirect=true&wdPreviousSession=2725bdf9-260b-4e76-bf60-0a348ad6decf&wdOrigin=TEAMS-ELECTRON.teams.undefined)    *(if this link doesnt work you can download the powerpoint [here](https://github.com/YoranFox/datascience-portfolio/raw/main/Public%20presentations%20wk%2013.pptx))*
 
+## Final paper
+
+
+## Reflection
+
+### My contribution
+This project was done entirely from home becasue of this we wanted to divide the work up so that we could work on our own parts. At the start of the project we created a planning to make sure we got everything done in time. We divided everything into subtasks which we added to our scrum board. Because of two group members leaving we remained with 3 members so we had to alter this planning to make sure we could do everything we wanted to do. Before we could work on the different tasks we had to setup a scrum board and create some kind of structure into how we were going to handle who did what. My task was to create the scrum board and set everything up so that we could work effeciently. Because I had previous experience with Jira I knew how the tool worked and what the adventages were. This is why I convinced my group that we should work with this tool. After creating the Jira board I explained some parts of the software. After a while I noticed that the Jira software was holding us more back then that it was helping us. When trying to improve the efficiency I noticed that it took too much effort to make everything run smoothly. This was something I overlooked, if I knew this I wouldn't have chosen this software. I think a different software should have been chosen that everyone had experience with and is easy to maintain. I could also have managed the software better from the beginning and keep it more up to date. In the end the software did help the team with the scrum tasks but this could have gone way better. 
+
+Like I mentioned before we were left with 3 group members, this meant that everyone had to contribute more to the project. Since we worked from home this meant that this would involve mostly indiviual work. The work mostly consisted to research and datacamp to better get a understanding about the subject at the beginning. After that we dived deepeer into the technical stuff like creating models and exploring the data. Following this structure I first looked into similar projects, I did this by searching for nanoparticle projects that used machine learning. I also looked at classification projects. In the end I found a few projects that were similair but also not quite the same. Next time I would try a different approach and not limit myself to the subject nanoparticles.  
+
+### What I learned
+Starting this minor I had zero experience with datascience and machine learning. I'm studying Software Engineering at the moment and wanted to specialize in data. Also when working at my my current job I noticed that data science could be usefull in my field. When picking this minor I had a clear goal for myself into what I wanted to learn. *How do I aply/use datascience with my current skils and work field*. This can be divided into more concrete learning goals:
+1 In what situations can datascience be applied?
+2 Learning how to handle a task in datascience.
+3 How can I combine datascience and software engineering.
+To be able to learn more about point 1 and 3 I had to do more research and experimenting outside the parameter of the minor. For point 1 I did this by reading a lot of articles and looking at problems that were tackled using applied datascience. When trying to learn the third point I had a idea to automate parts of the process that is required to pick a model that is correct for the problem.  
+
+### The project
+
