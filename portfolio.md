@@ -135,10 +135,10 @@ During the project I have done 3 presenations. Two internal presentations and 1 
 
 **Internal**
 
-- [Week 9](https://dehaagsehogeschool.sharepoint.com/:p:/r/sites/AppliedDataScience_groups-Nano/_layouts/15/doc2.aspx?sourcedoc=%7BB0D173CA-224B-4D7D-979C-085B02D84F41%7D&file=Internal%20presentations%20wk%209.pptx&action=edit&mobileredirect=true&wdPreviousSession=23810d55-45db-4fe5-9490-e1dfe999f7f3&wdOrigin=TEAMS-ELECTRON.teams.undefined)
+- [Week 9 Powerpoint](https://dehaagsehogeschool.sharepoint.com/:p:/r/sites/AppliedDataScience_groups-Nano/_layouts/15/doc2.aspx?sourcedoc=%7BB0D173CA-224B-4D7D-979C-085B02D84F41%7D&file=Internal%20presentations%20wk%209.pptx&action=edit&mobileredirect=true&wdPreviousSession=23810d55-45db-4fe5-9490-e1dfe999f7f3&wdOrigin=TEAMS-ELECTRON.teams.undefined) if this link doesnt work you can download the powerpoint [here](https://github.com/YoranFox/datascience-portfolio/raw/main/Internal%20presentations%20wk%209.pptx)
 
 
 **External**
 
-- [Week 13](https://dehaagsehogeschool.sharepoint.com/:p:/r/sites/AppliedDataScience_groups-Nano/_layouts/15/Doc.aspx?sourcedoc=%7BC86D1590-FEAC-4AC5-9508-A99400933EC6%7D&file=Public%20presentations%20wk%2013.pptx&action=edit&mobileredirect=true&wdPreviousSession=2725bdf9-260b-4e76-bf60-0a348ad6decf&wdOrigin=TEAMS-ELECTRON.teams.undefined)
+- [Week 13 Powerpoint](https://dehaagsehogeschool.sharepoint.com/:p:/r/sites/AppliedDataScience_groups-Nano/_layouts/15/Doc.aspx?sourcedoc=%7BC86D1590-FEAC-4AC5-9508-A99400933EC6%7D&file=Public%20presentations%20wk%2013.pptx&action=edit&mobileredirect=true&wdPreviousSession=2725bdf9-260b-4e76-bf60-0a348ad6decf&wdOrigin=TEAMS-ELECTRON.teams.undefined)if this link doesnt work you can download the powerpoint [here](https://github.com/YoranFox/datascience-portfolio/raw/main/Public%20presentations%20wk%2013.pptx)
 
