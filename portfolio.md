@@ -135,7 +135,7 @@ With help of this visualisation we were able to confirm that the Balancing metho
 
 ## Presenations
 
-During the project I have done 3 presenations. Two internal presentations and 1 external presentation.
+During the project I have done 3 presenations. Two internal presentations and 1 external presentation. In week 4 i did the presentation together with Klara, we created the powerpoint together and we divided the slides into equealy.
 
 **Internal**
 
