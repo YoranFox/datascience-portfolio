@@ -57,10 +57,15 @@ My contribution to the research plan is done in multiple ways. At the start of w
 
 ### Method
 
-<img src="https://github.com/YoranFox/datascience-portfolio/blob/main/Visualisation_predicting_threshold_method.png" style="float: left;" alt="alt text" width="200">
 When looking at the different ways to predict the best threshold method we spotted a problem in the data. For most of the pictures that are used there is only one predicted userscore. This is a problem since we dont know the score the same picture would have been given on the other threshold algorithms. At this point I came up with a different approach, we make a model that predicts the userscore instead of the best userscore. This can be done since the scores of a image are being calculated for every thershold algorithm. The picture below shows how the best threshold algorithm will be chosen.
 
+<img src="https://github.com/YoranFox/datascience-portfolio/blob/main/Visualisation_predicting_threshold_method.png" style="float: left;" alt="alt text" width="200">
 
+This new approach can be seen as a classification problem since the value that we are going to predict is labeled from 1 to 10. During our research into different kind of multiclass classification models we found 4 we wanted to try out. There are more methods that were available but since 2 of our project members stopped with the minor we wanted to limit ourselfs to these four. These models are: 
+- Decision tree
+- Random Forest Classifier
+- Logistic Regression
+- MLP Classifier
 
 
 ## Predictive Analystics
