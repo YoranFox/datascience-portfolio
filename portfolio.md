@@ -134,7 +134,7 @@ With help of this visualisation we were able to confirm that the Balancing metho
 During the project I have done 3 presenations. Two internal presentations and 1 external presentation.
 
 **Internal**
-- 
+- [Notebook - Polynomial Regression](https://dehaagsehogeschool.sharepoint.com/:p:/r/sites/AppliedDataScience_groups-Nano/_layouts/15/doc2.aspx?sourcedoc=%7BB0D173CA-224B-4D7D-979C-085B02D84F41%7D&file=Internal%20presentations%20wk%209.pptx&action=edit&mobileredirect=true&wdPreviousSession=23810d55-45db-4fe5-9490-e1dfe999f7f3&wdOrigin=TEAMS-ELECTRON.teams.undefined)
 
 
 **External**
