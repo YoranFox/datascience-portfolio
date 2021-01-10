@@ -1,17 +1,22 @@
 # MY PORTFOLIO
 
-TODO (Personal information)
-
+Name: Yoran de Vos
+Student-number: 17049784
+Group: NANO
 
 
 ## Introduction
 
-Introduction to the project - define project definition
+*How can a Machine Learning model, that predicts the optimal thresholding algorithm, assist VSParticle to analyze nanoparticle images?*. This is the Research question for our project we came up with after analyzing the project. The project is based around a application developed by VSPARTICLE, that uses image processing to alter a image of nano particles so that they can analyze the nano particles better. In this application there is one step called the Thresholding step where they use a threhsolding method to create a bitmap of the image. VSPARTICLE wants to know which threshold method works best for a given image. They provided us with samples of different runs they did in the applications. These runs contain the scores calculated and values used during the run, but also the user score that was given to indicate how well the picture turned out. With help of these samples we have to come up with a machine learning model that predicts the best thresholding method.
 
 <details>
   <summary>VSPARTICLE</summary>
   <br/>
-  Give information about vs particle
+  Product owner: Thomas Storck - Scientific Software Engineer
+  
+  VSPARTICLE is a company based in Delft specialized in Nano particles, they are creating and using cutting edge technology to research nanoparticles and nanomaterials. The applications and tools that are created are being used by the industry and researchers. 
+  
+  [VSPARTICLE website](https://vsparticle.com/)
 </details>
 
 
@@ -26,6 +31,7 @@ Introduction to the project - define project definition
 5. Predictive Analytics
 6. Presentations
 7. Final paper
+8. Reflection
 
 
 ## Datacamp Courses
