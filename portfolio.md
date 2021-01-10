@@ -21,12 +21,11 @@ Introduction to the project - define project definition
 
 1. DataCamp Courses
 2. Jargon
-3. Research
-4. Predictive Analytics
-5. Data Preprocessing
-6. Domain Knowledge
-7. Presentations
-8. Final paper
+3. Domain Knowledge
+4. Research
+5. Predictive Analytics
+6. Presentations
+7. Final paper
 
 
 ## Datacamp Courses
@@ -130,5 +129,14 @@ With help of this visualisation we were able to confirm that the Balancing metho
 
 </details>
 
+## Presenations
+
+During the project I have done 3 presenations. Two internal presentations and 1 external presentation.
+
+**Internal**
+- 
+
+
+**External**
 
 
