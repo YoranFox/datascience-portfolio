@@ -164,9 +164,10 @@ Like I mentioned before we were left with 3 group members, this meant that every
 
 ### What I learned
 Starting this minor I had zero experience with datascience and machine learning. I'm studying Software Engineering at the moment and wanted to specialize in data. Also when working at my my current job I noticed that data science could be usefull in my field. When picking this minor I had a clear goal for myself into what I wanted to learn. *How do I aply/use datascience with my current skils and work field*. This can be divided into more concrete learning goals:
-1 In what situations can datascience be applied?
-2 Learning how to handle a task in datascience.
-3 How can I combine datascience and software engineering.
+1. In what situations can datascience be applied?
+2. Learning how to handle a task in datascience.
+3. How can I combine datascience and software engineering.
+
 To be able to learn more about point 1 and 3 I had to do more research and experimenting outside the parameter of the minor. For point 1 I did this by reading a lot of articles and looking at problems that were tackled using applied datascience. When trying to learn the third point I had a idea to automate parts of the process that is required to pick a model that is correct for the problem.  
 
 ### The project
