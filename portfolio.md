@@ -135,7 +135,7 @@ The results we got from the script are saved in a DataFrame and exported to a fo
 
 With help of this visualisation we were able to confirm that the Balancing method we were going to use in the final model is indeed the best one for that model. Because when you look at the Logistic Regression model you can see that Under sampling has the highest score.
 
-[Notebook - The experiment]https://github.com/YoranFox/datascience-portfolio/blob/main/Notebooks/Experiment%20script.ipynb
+[Notebook - The experiment](https://github.com/YoranFox/datascience-portfolio/blob/main/Notebooks/Experiment%20script.ipynb)
 
 </details>
 
