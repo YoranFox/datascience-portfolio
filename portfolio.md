@@ -12,7 +12,10 @@ Group: NANO
 <details>
   <summary>VSPARTICLE</summary>
   Product owner: Thomas Storck - Scientific Software Engineer
+  
+  
   VSPARTICLE is a company based in Delft specialized in Nano particles, they are creating and using cutting edge technology to research nanoparticles and nanomaterials. The applications and tools that are created are being used by the industry and researchers. 
+  
   
   [VSPARTICLE website](https://vsparticle.com/)
 </details>
