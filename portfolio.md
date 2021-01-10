@@ -9,7 +9,7 @@ TODO (Personal information)
 Introduction to the project - define project definition
 
 <details>
-  <subject>VSPARTICLE</subject>
+  <summary>VSPARTICLE</summary>
   <br/>
   Give information about vs particle
 </details>
