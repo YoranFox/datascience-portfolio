@@ -1,7 +1,7 @@
 # MY PORTFOLIO
 
-Name: Yoran de Vos
-Student-number: 17049784
+Name: Yoran de Vos  
+Student-number: 17049784  
 Group: NANO
 
 
