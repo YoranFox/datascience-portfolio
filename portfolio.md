@@ -140,7 +140,7 @@ With help of this visualisation we were able to confirm that the Balancing metho
 
 ## Presenations
 
-During the project I have done 3 presenations. Two internal presentations and 1 external presentation. In week 4 i did the presentation together with Klara, we created the powerpoint together and we divided the slides into equealy.
+During the project I have done 3 presenations. Two internal presentations and 1 external presentation. In week 4 i did the presentation together with Klara, we created the powerpoint together and we divided the slides equealy.
 
 **Internal**
 
@@ -175,4 +175,6 @@ Point 2 is handled a lot during lessons and during the project I got a lot of pr
 In the end I think that I reached my own learning goals to a extend that I can be happy. Ofcourse there is so much more I can learn and improve but this is a great start and introduction into the field. 
 
 ### The project
+
+
 
