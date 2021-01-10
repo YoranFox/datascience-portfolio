@@ -83,10 +83,9 @@ During the project I have worked on multiple models that could be aplied to our 
 <summary>Polynomial Regression model</summary>
 <br>
 At the first stages during the project regression was still a option we were considering, so polynomial regression is one of the models I worked on to try and get the best result. For the feature seleciton for this model I used a corrolation matrix (made by Oscar). From that I chose the two features with the highest corrolation since they were by far better then the other ones. First I analyzed the features, then I chose the degree of the polynomial regression by making a learning curve. After that I analized the model with the chosen hyper parameters. After that I finalized the model. These steps are all documented and analyzed in the notebook.  
-<br>
 
 
-[Notebook - Polynomial Regression](https://datascience.hhs.nl:8888/user/17049784/notebooks/nano/Code%20Yoran/ML%20models/Seperation-border%20Regression.ipynb)
+[Notebook - Polynomial Regression](https://github.com/YoranFox/datascience-portfolio/blob/main/Notebooks/Seperation-border%20Regression.ipynb)
 
 </details>
 
@@ -135,6 +134,8 @@ The results we got from the script are saved in a DataFrame and exported to a fo
 <img src="https://github.com/YoranFox/datascience-portfolio/blob/main/Experiment_Balancing acc vs classes.png" alt="alt text" width="800" height="400">
 
 With help of this visualisation we were able to confirm that the Balancing method we were going to use in the final model is indeed the best one for that model. Because when you look at the Logistic Regression model you can see that Under sampling has the highest score.
+
+[Notebook - The experiment]https://github.com/YoranFox/datascience-portfolio/blob/main/Notebooks/Experiment%20script.ipynb
 
 </details>
 
