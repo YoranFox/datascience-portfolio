@@ -154,6 +154,11 @@ During the project I have done 3 presenations. Two internal presentations and 1 
 
 ## Final paper
 
+[Final Research paper]()
+
+When writing the paper I contributed to the general structure and I wrote these paragraphs:
+* Paragraph 2.3 - Experiment
+* Paragraph 3 - Results
 
 ## Reflection
 
