@@ -11,10 +11,9 @@ Group: NANO
 
 <details>
   <summary>VSPARTICLE</summary>
-  Product owner: Thomas Storck - Scientific Software Engineer
+  Product owner: Thomas Storck - Scientific Software Engineer  
 
 
-  
   VSPARTICLE is a company based in Delft specialized in Nano particles, they are creating and using cutting edge technology to research nanoparticles and nanomaterials. The applications and tools that are created are being used by the industry and researchers. 
   
   
@@ -179,5 +178,9 @@ In the end I think that I reached my own learning goals to a extend that I can b
 
 ### The project
 
+For the last 2 semesters Oscar, Klara and I worked on the project for VSParticle. We did this from our own homes and with limited group work possible. We were tasked to create a model that could predict the best thresholding method for a image. This meant that we had to analyze, research, learn and create information to solve this problem. From the beginning on out we had a good structure that we wanted to follow and we were very precise when creating and doing tasks. During the project we used the scrum method to keep track of progress and to divide the work. After two members left we handled that great and in a flexible way by altering the plan and taking on more tasks. This however also meant that we were limited in the possible direction we could go in for this project. We still pulled through and performed all the tasks that we wanted to do. On downside is that we sometimes rushed things, and this caused some oversights that gave us problems later on in the project. When looking back at some of the decisions we made, I think we should have thought and discussed things more. Also using the theory and applying learned techniques could have been done more often. Next time we should go about this in a different way, by creating models earlier and discussing things better. Conclusion should be made more quickly, so that we can continue with the next step without hanging at one specific problem. But the way we approached the problem was in my opinion a very good move, we discussed it with the problem owner and switched very quick to this new way of looking at the problem.
 
+However when I look at the things we accomplished during the project, I think we did a great job. Although the results we got are quite low, I think we did most we could given the circumstances. Ofcourse there is room for improvement and there are certainly more things we could have done. 
+
+I don't think that I could wish for two better project members to work on this project with. We had some struggle with communication at the beginning but that solved itself after we mentioned it during one of our meetings. I think we complemented each  other really good when looking at the specialties and studies we all do. 
 
