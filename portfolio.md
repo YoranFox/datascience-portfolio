@@ -44,11 +44,7 @@ Group: NANO
 |<img width="1604" alt="Img" src="https://github.com/YoranFox/datascience-portfolio/blob/main/DataCamp/DataCamp_4.png">  |  <img width="1604" alt="Img" src="https://github.com/YoranFox/datascience-portfolio/blob/main/DataCamp/DataCamp_5.png">|<img width="1604" alt="Img" src="https://github.com/YoranFox/datascience-portfolio/blob/main/DataCamp/DataCamp_6.png">|
 |<img width="1604" alt="Img" src="https://github.com/YoranFox/datascience-portfolio/blob/main/DataCamp/DataCamp_7.png">  |  <img width="1604" alt="Img" src="https://github.com/YoranFox/datascience-portfolio/blob/main/DataCamp/DataCamp_8.png">|<img width="1604" alt="Img" src="https://github.com/YoranFox/datascience-portfolio/blob/main/DataCamp/DataCamp_9.png">|
 
-TODO
-
-Progress of the total completion
-
-List of completed courses with a link to screenshots of completed courses
+[### MY ACCOUNT](https://www.datacamp.com/profile/17049784)
 
 
 ## Jargon
