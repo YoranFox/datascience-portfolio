@@ -90,6 +90,16 @@ When looking at the different ways to predict the best threshold method we spott
 During the project I have worked on multiple models that could be aplied to our data. I did this to get a better understanding on how well different models work for our problem. When working on those models I documented my thoughts and systematicly went through all the steps. I also created the script that was used to create the data used in our experiment.
 
 <details>
+<summary>Binary decision tree</summary>
+<br>
+When looking at decision trees I wanted to know how well a decision tree would perform of we split out data into two classes. In this notebook I made a graph to show the accuracy for every feature combination.
+
+[Notebook - Binary Decision Tree](https://github.com/YoranFox/datascience-portfolio/blob/main/Notebooks/Classification%20BINARY.ipynb)
+
+</details>
+
+
+<details>
 <summary>Polynomial Regression model</summary>
 <br>
 At the first stages during the project regression was still a option we were considering, so polynomial regression is one of the models I worked on to try and get the best result. For the feature seleciton for this model I used a corrolation matrix (made by Oscar). From that I chose the two features with the highest corrolation since they were by far better then the other ones. First I analyzed the features, then I chose the degree of the polynomial regression by making a learning curve. After that I analized the model with the chosen hyper parameters. After that I finalized the model. These steps are all documented and analyzed in the notebook.  
