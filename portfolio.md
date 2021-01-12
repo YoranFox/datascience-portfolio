@@ -36,6 +36,7 @@ Group: NANO
 
 
 ## Datacamp Courses
+<img src="https://github.com/YoranFox/datascience-portfolio/blob/main/DataCamp/DataCamp_header.png">
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
