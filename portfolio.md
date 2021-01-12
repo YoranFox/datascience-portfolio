@@ -165,7 +165,8 @@ During the project I have done 3 presenations. Two internal presentations and 1 
 
 ## Final paper
 
-[Final Research paper]()
+Final paper version at moment of handing in portfolio:
+[Final Research paper](https://github.com/YoranFox/datascience-portfolio/blob/main/PDF_FInal_paper.pdf)
 
 When writing the paper I contributed to the general structure and I wrote these paragraphs:
 * Paragraph 2.3 - Experiment
