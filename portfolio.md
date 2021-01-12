@@ -36,7 +36,7 @@ Group: NANO
 
 
 ## Datacamp Courses
-<a src="https://www.datacamp.com/profile/17049784"><img src="https://github.com/YoranFox/datascience-portfolio/blob/main/DataCamp/DataCamp_header.png"></a>
+<img src="https://github.com/YoranFox/datascience-portfolio/blob/main/DataCamp/DataCamp_header.png">
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
@@ -66,7 +66,7 @@ From VSParticle we got a JSON file containing runs done by users using their app
 The _id paramter contains the id given by the application for a run, these are unique for every run. The parameters value contians the paramters given to the program on how to preprocess the image. The metadate contains non-important data for us. The results value contains the ouput endpoints where the pictures generated are saved. The scores value stores the scores calculated by the application for every step, but also the userscore that is given at the end of the run. 
 
 The next image shows how this data is generated:
-<img src="https://github.com/YoranFox/datascience-portfolio/blob/main/Visualisation_Data.png">
+<img width="600" src="https://github.com/YoranFox/datascience-portfolio/blob/main/Visualisation_Data.png">
 *This image is created by Oscar and me*
 
 ## Research
@@ -81,7 +81,7 @@ My contribution to the research plan is done in multiple ways. At the start of w
 
 When looking at the different ways to predict the best threshold method we spotted a problem in the data. For most of the pictures that are used there is only one predicted userscore. This is a problem since we dont know the score the same picture would have been given on the other threshold algorithms. At this point I came up with a different approach, we make a model that predicts the userscore instead of the best userscore. This can be done since the scores of a image are being calculated for every thershold algorithm. The picture below shows how the best threshold algorithm will be chosen.
 
-<img width="1604" src="https://github.com/YoranFox/datascience-portfolio/blob/main/Visualisation_predicting_threshold_method.png" style="float: left;" alt="alt text" width="200">
+<img src="https://github.com/YoranFox/datascience-portfolio/blob/main/Visualisation_predicting_threshold_method.png" style="float: left;" alt="alt text" width="200">
 
 
 ## Predictive Analystics
