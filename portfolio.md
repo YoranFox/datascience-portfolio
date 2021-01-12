@@ -27,7 +27,7 @@ Group: NANO
 
 1. DataCamp Courses
 2. Jargon
-3. Domain Knowledge
+3. The Data
 4. Research
 5. Predictive Analytics
 6. Presentations
@@ -54,7 +54,20 @@ The words used in this paper that are domain specific are defined below.
 * Threshold algorithm: A algorithm that is used during image processing to define what pixels are white and black.
 * User score: The score a user gives at the end of the image processing to determine how good the image looks.
 
+## The Data
 
+From VSParticle we got a JSON file containing runs done by users using their application. Each run is split up into JSON objects with these values:
+* _id
+* parameters
+* metadata
+* results
+* scores
+
+The _id paramter contains the id given by the application for a run, these are unique for every run. The parameters value contians the paramters given to the program on how to preprocess the image. The metadate contains non-important data for us. The results value contains the ouput endpoints where the pictures generated are saved. The scores value stores the scores calculated by the application for every step, but also the userscore that is given at the end of the run. 
+
+The next image shows how this data is generated:
+<img src="https://github.com/YoranFox/datascience-portfolio/blob/main/Visualisation_Data.png">
+*This image is created by Oscar and me*
 
 ## Research
 
