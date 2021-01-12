@@ -70,12 +70,6 @@ When looking at the different ways to predict the best threshold method we spott
 
 <img src="https://github.com/YoranFox/datascience-portfolio/blob/main/Visualisation_predicting_threshold_method.png" style="float: left;" alt="alt text" width="200">
 
-This new approach can be seen as a classification problem since the value that we are going to predict is labeled from 1 to 10. During our research into different kind of multiclass classification models we found 4 we wanted to try out. There are more methods that were available but since 2 of our project members stopped with the minor we wanted to limit ourselfs to these four. These models are: 
-- Decision tree
-- Random Forest Classifier
-- Logistic Regression
-- MLP Classifier
-
 
 ## Predictive Analystics
 
